@@ -1,0 +1,22 @@
+{
+  "name": "practice-importing-modules-cody-r",
+  "version": "1.0.0",
+  "description": "Practice importing modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyRR/practice-importing-modules-Cody-R.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodyRR/practice-importing-modules-Cody-R/issues"
+  },
+  "homepage": "https://github.com/CodyRR/practice-importing-modules-Cody-R#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
